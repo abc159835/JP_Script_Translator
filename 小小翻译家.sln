@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小小翻译家", "小小翻译家\小小翻译家.csproj", "{81AB4B41-AD77-40E6-8880-25435E854568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AB4B41-AD77-40E6-8880-25435E854568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AB4B41-AD77-40E6-8880-25435E854568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AB4B41-AD77-40E6-8880-25435E854568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AB4B41-AD77-40E6-8880-25435E854568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA184195-F4E1-40C5-8C69-4B2AF426CC58}
+	EndGlobalSection
+EndGlobal
