@@ -7,7 +7,7 @@
 6.      数据存档，闭免异常关闭后重新开始。
 7.      开放翻译接口，以便用户执行自己的代码。
 8.      拒绝一翻到底，支持人工润色。
-![Image text](https://pic.imgdb.cn/item/630c3a9416f2c2beb1f7a966.png)
+[Image text](https://pic.imgdb.cn/item/630c3a9416f2c2beb1f7a966.png)
 
 #注意：
 1.      内置翻译仅有谷歌翻译和百度翻译API，扩展需自行搭建http本地服务，程序的自定义调用接口为http://localhost:15983/ 程序将以post的方式传递原文，需传回翻译后的文本。
